@@ -1,7 +1,7 @@
 This is a file in a git repo used to demonstrate an 'evil merge'.
 
-int a = 0;
-int b = 1;
-a = b;
+int a = 1;
+int b = 0;
+b = a;
 a++;
 b++;
