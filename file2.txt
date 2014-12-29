@@ -1,0 +1,9 @@
+This is a 2nd file in a git repo used to demonstrate an 'evil merge'.
+
+int x = 0;
+int y = 1;
+int z = 2;
+x = y;
+x++;
+y++;
+z++;
