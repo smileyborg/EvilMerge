@@ -1,6 +1,6 @@
 This is a file in a git repo used to demonstrate an 'evil merge'.
 
-int a = 1;
+int a = 3;
 int b = 0;
 int c = 2;
 b = a;
